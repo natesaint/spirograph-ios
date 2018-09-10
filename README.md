@@ -1,10 +1,12 @@
 # spirograph-ios
 Simple spirograph simulation made as an IOS app for a fourth-year special topics course.
 
+
 # Building
 ```
 Built using Xcode and Swift 4. Tested using the iPhone 8 simulator on Xcode.
 ```
+
 
 # Usage
 ```
@@ -12,6 +14,7 @@ The .txt file labelled 'input.txt' contains the parameters to describe the shape
 
 Once input.txt is setup with your parameters, run the program!
 ```
+
 
 # References and Credit
 -Spirograph formulas and SceneKit use: David Calvert's lecture slides on scene graphs
