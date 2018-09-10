@@ -20,7 +20,7 @@ Once input.txt is setup with your parameters, run the program!
 
 
 # References and Credit
-*Spirograph formulas and SceneKit use: David Calvert's lecture slides on scene graphs
-*SceneKit usage: https://code.tutsplus.com/tutorials/an-introduction-to-scenekit-fundamentals--cms-23847
-*SceneKit usage: https://www.weheartswift.com/introduction-scenekit-part-1/
-*Initialization of objects and what not is somewhat similar to the links above, I used those resources to help me.
+* Spirograph formulas and SceneKit use: David Calvert's lecture slides on scene graphs
+* SceneKit usage: https://code.tutsplus.com/tutorials/an-introduction-to-scenekit-fundamentals--cms-23847
+* SceneKit usage: https://www.weheartswift.com/introduction-scenekit-part-1/
+* Initialization of objects and what not is somewhat similar to the links above, I used those resources to help me.
